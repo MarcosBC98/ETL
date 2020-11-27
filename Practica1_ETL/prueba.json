@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "Codigo_Postal": 28001,
+      "Nombre_Calle": "Calle General Mola",
+      "Portal": 62,
+      "Piso": 8,
+      "sexo": "Hombre"
+    },
+    {
+      "Codigo_Postal": 28003,
+      "Nombre_Calle": "Calle Los Vascos",
+      "Portal": 2,
+      "Piso": 4,
+      "sexo": "Mujer"
+    },
+    {
+      "Codigo_Postal": 28003,
+      "Nombre_Calle": "Calle Beatriz de Boadilla",
+      "Portal": 13,
+      "Piso": 5,
+      "sexo": "Hombre"
+    }
+ ]
+}
